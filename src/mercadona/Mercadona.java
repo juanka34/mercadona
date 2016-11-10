@@ -143,6 +143,10 @@ public class Mercadona {
     }
 
     public static void main(String[] args) {
+        
+        
+        
+        
 
         //rellenardatos();
        //mostarTodosLosProductos();
